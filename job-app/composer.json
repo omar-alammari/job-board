@@ -8,10 +8,10 @@
         "framework"
     ],
     "license": "MIT",
-    "repositories": [   
+    "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/yaya1426/job-shared.git"
+            "url": "https://github.com/omar-alammari/job-shared.git"
         }
     ],
     "require": {
